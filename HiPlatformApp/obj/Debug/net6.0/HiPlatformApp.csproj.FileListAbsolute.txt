@@ -1,0 +1,15 @@
+C:\Users\Movidesk\Documents\arquivos_hi_platform\HiPlatformApp\HiPlatformApp\bin\Debug\net6.0\HiPlatformApp.exe
+C:\Users\Movidesk\Documents\arquivos_hi_platform\HiPlatformApp\HiPlatformApp\bin\Debug\net6.0\HiPlatformApp.deps.json
+C:\Users\Movidesk\Documents\arquivos_hi_platform\HiPlatformApp\HiPlatformApp\bin\Debug\net6.0\HiPlatformApp.runtimeconfig.json
+C:\Users\Movidesk\Documents\arquivos_hi_platform\HiPlatformApp\HiPlatformApp\bin\Debug\net6.0\HiPlatformApp.dll
+C:\Users\Movidesk\Documents\arquivos_hi_platform\HiPlatformApp\HiPlatformApp\bin\Debug\net6.0\HiPlatformApp.pdb
+C:\Users\Movidesk\Documents\arquivos_hi_platform\HiPlatformApp\HiPlatformApp\obj\Debug\net6.0\HiPlatformApp.csproj.AssemblyReference.cache
+C:\Users\Movidesk\Documents\arquivos_hi_platform\HiPlatformApp\HiPlatformApp\obj\Debug\net6.0\HiPlatformApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Movidesk\Documents\arquivos_hi_platform\HiPlatformApp\HiPlatformApp\obj\Debug\net6.0\HiPlatformApp.AssemblyInfoInputs.cache
+C:\Users\Movidesk\Documents\arquivos_hi_platform\HiPlatformApp\HiPlatformApp\obj\Debug\net6.0\HiPlatformApp.AssemblyInfo.cs
+C:\Users\Movidesk\Documents\arquivos_hi_platform\HiPlatformApp\HiPlatformApp\obj\Debug\net6.0\HiPlatformApp.csproj.CoreCompileInputs.cache
+C:\Users\Movidesk\Documents\arquivos_hi_platform\HiPlatformApp\HiPlatformApp\obj\Debug\net6.0\HiPlatformApp.dll
+C:\Users\Movidesk\Documents\arquivos_hi_platform\HiPlatformApp\HiPlatformApp\obj\Debug\net6.0\refint\HiPlatformApp.dll
+C:\Users\Movidesk\Documents\arquivos_hi_platform\HiPlatformApp\HiPlatformApp\obj\Debug\net6.0\HiPlatformApp.pdb
+C:\Users\Movidesk\Documents\arquivos_hi_platform\HiPlatformApp\HiPlatformApp\obj\Debug\net6.0\HiPlatformApp.genruntimeconfig.cache
+C:\Users\Movidesk\Documents\arquivos_hi_platform\HiPlatformApp\HiPlatformApp\obj\Debug\net6.0\ref\HiPlatformApp.dll
